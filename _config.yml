@@ -6,37 +6,38 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Jeff Rogers
+title: Executive Delivery Leader - Chicago, IL
+email: jeff@atriumn.com
+phone: 312.282.9879
+website: https://jeff-atriumn.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+# github_username: sproogen
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jameswgrant
+linkedin_username: jrojers
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+    - title: Jeff Rogers
+      icon: fas fa-globe
+      url: https://jeff-atriumn.github.io/
+    - title: Calendly
+      icon: far fa-calendar-plus
+      url: https://calendly.com/jeff-atriumn
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -46,82 +47,175 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/cartoonify.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+    A senior software engineering leader, with a focus on <mark>Continuous Delivery</mark> and <mark>Risk Management</mark>.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+    practices
+
+    <mark>quality as a design principle</mark>
+
+    cicd
+
+    quality system
+
+    agile - scrum
+
+    continuous improvement
+
+    risk observation, identification, management/mitigation, escalation
+
+    robust - scalable arch & process
+
+    schedule time [here](https://calendly.com/jeff-atriumn)
+
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    - title: Experience
+      layout: list
+      content:
+          - layout: left
+            title: Tempus Labs
+            link: https://tempus.com
+            sub_title: Head of Engineering Quality / Engineering Lead
+            caption: September 2017 - July 2021
+            quote: >
+                Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+            description: | # this will include new lines to allow paragraphs
+                Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          - layout: left
+            title: Centro
+            link: https://www.centro.net
+            sub_title: Senior Director of Quality Engineering
+            caption: September 2014 - September 2017
+            quote: >
+                Own engineering quality for Centro's ad-tech SAAS platform (https://platform.basis.net).
+            description: | # this will include new lines to allow paragraphs
+                - Interface with executive leaders and business owners the owner of Technology quality and change management.
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+                - Own development, quality, and release processes for three technology offices, with over 100 engineers, project managers, designers, and testers.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+                - Directly manage 10+ SDET and exploratory testing professionals.
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+                - Responsible for change management for all web and backend updates to production.
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+                - Mentor engineering teams on test automation across frontend, backend, end-to-end,  performance,  load, and data quality.
+
+                - Shape recruiting, onboarding, and staffing for Quality Assurance/Test Engineering positions, as well as engineer, product, and operations positions.
+
+          - layout: left
+            title: Angie's List / Angi
+            link: https://www.angi.com/
+            sub_title: Director of Engineering QA
+            caption: January 2013 - September 2014
+            quote: >
+                Responsible for software quality and releases of the Angie’s List platforms, which include mobile, web, and public and internal APIs.
+            description: | # this will include new lines to allow paragraphs
+                - Represent Engineering as the owner of quality, with individual engineering contributors to senior management to customers.
+
+                - Build quality processes for two major engineering offices, with over 125 engineers.
+
+                - Shape performance testing and improvement plans to support over 2 million members and service providers.
+
+                - Set quality metrics for individuals, teams, and organizations.
+
+                - Handle processes and reporting for all web, mobile, and backend releases to production.
+
+                - Mentor engineering teams on frontend, backend, end-to-end, and performance test automation strategies.
+
+                - Condense all feature/project planning and knowledge management from 10 disparate tools into one common platform for all of Angie’s List (Jira and Confluence).
+
+                - Oversee Angie’s List scrum masters and Scrum process implementation.
+
+                - Continuous interaction with peers in Engineering, Sales, Marketing, Operations, and Customer Call Centers.
+
+                - Handle communications with executive team on quality of code, team velocities, releases, and production operations.
+
+                - Assist architecture group with the strategy to redesign a highly monolithic, 10 year old codebase.
+
+                - Design quality engineering process that drive the creation of high quality code.
+
+                - Own all release processes and metrics, which involves heavy interaction with accounting and financial controls.
+
+                - Shape recruiting, onboarding, and staffing for Quality Assurance/Test Engineering positions, as well as developer, release, and Scrum Master positions.
+
+          - layout: left
+            title: Groupon
+            link: https://www.groupon.com
+            sub_title: Senior Engineering Manager
+            caption: October 2010 - January 2013
+            quote: >
+                Responsible for overall software quality strategy, through investment in test driven development at several layers of the Groupon platform. This investment enables the engineering team to build products quickly and efficiently, without compromising our quality standards.
+            description: | # this will include new lines to allow paragraphs
+                - Built test and productivity processes for a fast and agile environment distributed across two major US development centers, with over 300 engineers.
+
+                - Accountable for acceptance and regression testing with the hourly/daily/weekly deployments of 20+ engineering teams.
+
+                - Built scripts and tools to track and report quality metrics. Examples: CI build performance, test stability, code coverage, and test coverage analysis.
+
+                - Mentored test engineering teams on frontend, backend, and end-to-end test automation strategies.
+
+                - Collaborated closely with Release Engineering on deployment planning and continuous integration infrastructure. CI builds run ~30,000 tests on every commit.
+
+                - Responsible for recruiting, onboarding, and staffing for Quality Assurance/Test Engineering positions for the Chicago development center. The team grew from 1 to 15 in less than 2 years.
+
+                - Steady interaction with peers in Engineering & Product Management regarding holes in quality, process, or both.
+
+                - Championed international service-oriented architecture functional testing strategy, represent end-to-end, full stack testing in global architecture discussions.
+
+                - Owned long-term end-to-end testing across multiple platforms (web, api, mobile) and locales.
+
+                - Managed back-end quality processes for Financial Engineering groups, which sees $2+ million flow to merchants daily.
+
+                - Facilitated processes and tools to enable internal “dogfooding” of software releases to all Groupon employees.
+
+                - Designed an apprenticeship program for junior/mid-level developers to learn good testing practices “on the job”, before graduating to development positions.
+
+          - layout: left
+            title: ThoughtWorks
+            link: https://www.thoughtworks.com
+            sub_title: Lead Consultant
+            caption: July 2000 - October 2010
+            quote: >
+                Charged with representing the testing and quality assurance capability of a global consulting and professional services organization, with a focus on Agile optimization. Clients ranged from New York City, Atlanta, Philadelphia, Chicago, San Francisco, Dallas, Austin, Australia, India, the UK, and more. Technologies spanned Ruby on Rails, Java, and .NET. Responsibilities included business development, recruiting, coaching, project management, delivery assurance, as well as project execution.
+            description: | # this will include new lines to allow paragraphs
+                - Built a team of 30+ enthusiastic testers that could be staffed on projects of varying sizes and technologies across North America.\n
+
+                - Helped clients build test strategies, plans, and teams to address their quality concerns, with an eye towards Agile optimization. This includes resource planning and management, to ensure that all testing facets of the project are covered.
+
+                - Approved North American client engagements for legal, staffing, and project requirements in regards to Quality Assurance.
+
+                - Coached client QA professionals on agile testing principles and management practices at over 25 ThoughtWorks clients.
+
+                - Worked closely with Engineering leaders on leveraging staff and tools for robust test automation strategies. Represented open source testing tools or “roll your own” strategies over commercial, more expensive options.
+
+                - Collaborated with international testing leaders on strategic goals, such as bars for recruiting, partnerships, and agile testing visions.
+
+    - title: Education # Title for the section
+      layout: list # Type of content section (list/text)
+      content:
+          - layout: left
+            title: Miami University, Oxford OH
+            link: https://miamioh.edu/
+            caption: 1994 - 1998
+            sub_title: Bachelors of Science in Business - Management Information Systems / Information Systems and Analytics
+            quote: >
+                Miami University, founded in 1809 in Oxford, Ohio, has a national reputation for a superior educational experience and unparalleled professional preparation of its students.
+            description: | # this will include new lines to allow paragraphs
+                The management information systems (MIS) major provides graduates with managerial and technical skills critical to directing and controlling the information resources of an organization. Graduates of this program learn fundamental information and communication theories and technologies such as database theory and management, systems analysis and design, and data communications as well as contemporary topics such as internetworking and world wide web-based technologies for electronic commerce, data and wireless communications, multimedia, data mining and warehousing, knowledge management, and enterprise systems. Emphasis is on structuring and solving business problems by appropriately applying technological resources and information management skills.
+
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
 
 sass:
-  sass_dir: _sass
-  style: compressed
+    sass_dir: _sass
+    style: compressed
 
 plugins:
- - jekyll-seo-tag
+    - jekyll-seo-tag

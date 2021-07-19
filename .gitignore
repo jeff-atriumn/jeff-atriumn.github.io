@@ -1,0 +1,13 @@
+
+vendor
+
+.DS_Store
+
+.bundle
+
+.vscode
+
+Gemfile.lock
+
+_site
+
