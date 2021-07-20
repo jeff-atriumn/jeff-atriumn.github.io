@@ -10,7 +10,6 @@ name: Jeff Rogers
 title: Experienced Technology Delivery Leader - Chicago, IL
 email: jeff@atriumn.com
 phone: 312.282.9879
-website: https://jeff-atriumn.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -37,28 +36,13 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/cartoonify.png
 about_content: | # this will include new lines to allow paragraphs
-    A senior software engineering leader, with a focus on <mark>Continuous Delivery</mark> and <mark>Risk Management</mark>.
+    An experienced leader in agile software delivery, with successes in <mark>continuous delivery</mark> and <mark>proactive risk management</mark>, while advocating <mark>quality as a design principle</mark>.
 
-    practices
+    Deep focus on <mark>key performance indicators</mark> as a tool for iteration and continuous improvement.
 
-    <mark>quality as a design principle</mark>
+    Broad practice across healthcare, regulatory, ecommerce, and more.
 
-    cicd
-
-    quality system
-
-    agile - scrum
-
-    continuous improvement
-
-    risk observation, identification, management/mitigation, escalation
-
-    robust - scalable arch & process
-
-    schedule time [here](https://calendly.com/jeff-atriumn)
-
-    techdocs
-
+    Schedule time [here](https://calendly.com/jeff-atriumn).
 
 content:
     - title: Experience
@@ -90,11 +74,11 @@ content:
 
                 - Coached 20+ cross-functional Product & Engineering teams on testing, deployment planning, and continuous integration with hourly/daily/weekly releases.
 
-                - Designed and delivered Technology onboarding procedures and documents.
+                - Designed and delivered Technology onboarding procedures and training.
 
                 - Collaborated weekly with internal Architecture guild on platform direction.
 
-                - Grew Engineering Operations Release & Testing teams from O to 15 people.
+                - Grew Engineering Operations release & testing expertise from O to 15 people.
 
           - layout: left
             title: Centro
