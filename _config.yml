@@ -36,11 +36,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/cartoonify.png
 about_content: | # this will include new lines to allow paragraphs
-    An experienced leader in agile software delivery, with successes in <mark>continuous delivery</mark> and <mark>proactive risk management</mark>, while advocating <mark>quality as a design principle</mark>.
+    An experienced leader in agile software delivery, with passion for <mark>continuous delivery</mark> and <mark>proactive risk management</mark>, while advocating for <mark>quality as a design principle</mark>.
 
-    Deep focus on aligning <mark>key performance indicators</mark> as a tool for continuous improvement in technology strategy and product roadmaps.
+    Focus on aligning <mark>key performance indicators</mark> as a tool for continuous improvement in technology strategy and product roadmaps.
 
-    Broad practical delivery experience across many business verticals: healthcare, regulatory, ecommerce, insurance, and more.
+    Broad practical delivery experience across business verticals: healthcare, regulatory, e-commerce, insurance, and more.
 
     - risk management
 
@@ -52,8 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 
     - release, observability, and continuous improvement
 
-
-    Schedule time [here](https://calendly.com/jeff-atriumn).
+    Feel free to schedule time [here](https://calendly.com/jeff-atriumn).
 
 content:
     - title: Experience
@@ -69,21 +68,19 @@ content:
             description: | # this will include new lines to allow paragraphs
                 Enabled continuous delivery of independent and autonomous pods via <mark>proactive risk identification, observation, and mitigation processes</mark>.
 
-                Build procedures for proactive verification and validation, continuous delivery, and incident/root-cause analysis processes, with a "shift-left" philosophy in defining <mark> quality as a design principle</mark>.
+                Championed quality as a design principle, building procedures for <mark>proactive verification and validation, continuous delivery, and incident/root-cause analysis</mark>.
 
-                Coached 20+ teams on weekly, monthly, and quarterly <mark>continuous improvement and risk evaluation</mark> via failure mode analysis, retrospectives, and quarterly planning.
+                Coached 40+ teams on weekly, monthly, and quarterly continuous improvement and risk evaluation via <mark>failure mode analysis, retrospectives, and quarterly planning</mark>.
 
-                Authored official Tempus SDLC describing <mark>system and infrastructure change management policies and procedures</mark>. Acted as liaison between Technology teams and Tempus Legal and Compliance groups, contributing to 50+ regulatory or partner audits.
+                Authored official Tempus SDLC policy describing system and infrastructure change management procedures. Acted as <mark>liaison between Technology teams and Tempus Legal and Compliance groups</mark>, contributing to 50+ regulatory and partner audits.
 
                 Facilitated the adoption of delivery and quality KPIs via <mark>internal workflow, dependency, and release management tooling</mark>.
 
-                Rebooted internal procedures on incident response, root-cause analysis, continuous improvement, while sharing learnings & failures.
+                Rebooted internal procedures on incident response, root-cause analysis, continuous improvement, while sharing learnings & failures with the organization.
 
                 - Accountable to internal product release and dependency management tooling for 500+ systems and services.
 
                 - Contributed to 20+ internal policies detailing procedures around change & risk management, data security, and validation.
-
-                - Coached 20+ cross-functional Product & Engineering teams on testing, deployment planning, and continuous integration with hourly/daily/weekly releases.
 
                 - Designed and delivered Technology onboarding procedures and training.
 
@@ -100,11 +97,11 @@ content:
                 A global provider of enterprise-class software for digital advertisers. Its ad-tech SAAS platform is the industry’s most powerful, comprehensive, and automated digital media management platform.
 
             description: | # this will include new lines to allow paragraphs
-                Owned Product & Engineering delivery procedures and practices for Centro's SAAS platform, [Basis](https://platform.basis.net).
+                Owned Product & Engineering delivery procedures and practices for Centro’s SAAS platform, Basis.
 
-                <mark>Positioned Quality Engineering as a facilitator of high quality delivery</mark>, via interaction with individual contributors, team leads, senior management, and customer liaisons.
+                Positioned <mark>Quality Engineering as a facilitator of high quality delivery</mark>, via interaction with individual contributors, team leads, senior management, and customer liaisons.
 
-                Coached teams on <mark>quality and delivery related KPIs for individuals, teams, and the organization</mark>. Facilitated KPI communications with executive team on quality of code, team velocities, releases, and production operations.
+                Coached teams on quality and delivery related KPIs for individuals, teams, and organization. <mark>Accountable to communications with executive team</mark> on quality of code, team velocities, releases, and production operations.
 
                 - Interfaced with executive leaders and business owners as the owner of Technology quality and change management.
 
@@ -112,9 +109,9 @@ content:
 
                 - Responsible for change management processes and documentation for all web and backend updates to production.
 
-                - Mentored engineering teams on test automation practices across frontend, backend, end-to-end, performance, load, and data quality.
+                - Mentored engineering teams on test automation practices across frontend, backend, end-to-end, performance, load, and data quality testing.
 
-                - Shaped recruiting, onboarding, and staffing for Quality Assurance/Test Engineering positions, as well as engineer, product, and operations positions.
+                - Shaped recruiting, onboarding, and staffing for Quality Assurance/Test Engineering positions.
 
           - layout: left
             title: Angie's List / Angi
@@ -125,7 +122,7 @@ content:
                 An American home services online directory that allows users to read and publish crowd-sourced reviews of local businesses and contractors.
 
             description: | # this will include new lines to allow paragraphs
-                Responsible for software quality and releases of the Angie’s List platforms, which included mobile, web, and external/internal APIs.
+                Responsible for software quality and releases of the Angie’s List platforms, which included <mark>mobile, web, and external/internal APIs</mark>.
 
                 Mentored engineering teams on <mark>frontend, backend, end-to-end, and performance test automation strategies</mark>.
 
@@ -187,7 +184,7 @@ content:
 
                 - Collaborated on approvals for North American client engagements with ThoughtWorks Legal and Staffing departments, ensuring project coverage for cross-functional quality and testing concerns.
 
-                - United international ThoughtWorks testing leaders on strategic goals, such as bars for recruiting, partnerships, and agile testing visions.
+                - <mark>United international ThoughtWorks testing leaders on strategic goals</xxmark>, such as bars for recruiting, partnerships, and agile testing visions.
 
     - title: Education # Title for the section
       layout: list # Type of content section (list/text)
@@ -203,7 +200,7 @@ content:
             description: | # this will include new lines to allow paragraphs
                 - The management information systems (MIS) major provides managerial and technical skills critical to directing and controlling the information resources of an organization.
 
-                - Graduates of this program learn fundamental information and communication theories and technologies such as database theory and management, systems analysis/design, and data communications as well as contemporary topics such as internetworking and world wide web-based technologies for electronic commerce, data and wireless communications, multimedia, data mining and warehousing, knowledge management, and enterprise systems.
+                - Graduates of this program learn fundamental information and communication theories and technologies such as database theory and management, systems analysis/design, and data communications as well as other contemporary topics.
 
                 - Emphasis is on structuring and solving business problems by appropriately applying technological resources and information management skills.
 
