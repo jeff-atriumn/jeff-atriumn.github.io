@@ -38,9 +38,20 @@ about_profile_image: images/cartoonify.png
 about_content: | # this will include new lines to allow paragraphs
     An experienced leader in agile software delivery, with successes in <mark>continuous delivery</mark> and <mark>proactive risk management</mark>, while advocating <mark>quality as a design principle</mark>.
 
-    Deep focus on <mark>key performance indicators</mark> as a tool for iteration and continuous improvement.
+    Deep focus on aligning <mark>key performance indicators</mark> as a tool for continuous improvement in technology strategy and product roadmaps.
 
-    Broad practice across healthcare, regulatory, ecommerce, and more.
+    Broad practical delivery experience across many business verticals: healthcare, regulatory, ecommerce, insurance, and more.
+
+    - risk management
+
+    - product management, design, & requirements
+
+    - architecture & system design
+
+    - verification & validation
+
+    - release, observability, and continuous improvement
+
 
     Schedule time [here](https://calendly.com/jeff-atriumn).
 
@@ -51,7 +62,7 @@ content:
           - layout: left
             title: Tempus Labs
             link: https://tempus.com
-            sub_title: Head of Engineering Quality / Engineering Lead
+            sub_title: Head of Engineering Quality / Engineering Practices Lead
             caption: September 2017 - July 2021
             quote: >
                 Tempus makes precision medicine a reality through the power and promise of data and artificial intelligence.
