@@ -118,7 +118,7 @@ content:
           - layout: left
             title: Angie's List / Angi
             link: https://www.angi.com/
-            sub_title: Director of Engineering QA
+            sub_title: Director of Engineering Quality
             caption: January 2013 - September 2014
             quote: >
                 An American home services online directory that allows users to read and publish crowd-sourced reviews of local businesses and contractors.
@@ -186,7 +186,7 @@ content:
 
                 - Collaborated on approvals for North American client engagements with ThoughtWorks Legal and Staffing departments, ensuring project coverage for cross-functional quality and testing concerns.
 
-                - <mark>United international ThoughtWorks testing leaders on strategic goals</xxmark>, such as bars for recruiting, partnerships, and agile testing visions.
+                - <mark>United international ThoughtWorks testing leaders on strategic goals</mark>, such as bars for recruiting, partnerships, and agile testing visions.
 
     - title: Education # Title for the section
       layout: list # Type of content section (list/text)
