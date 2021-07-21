@@ -66,6 +66,8 @@ content:
             quote: >
                 Tempus makes precision medicine a reality through the power and promise of data and artificial intelligence.
             description: | # this will include new lines to allow paragraphs
+                Owned technology delivery practices for Tempus's suite of clinical diagnostic and analytical data products.
+
                 Enabled continuous delivery of independent and autonomous pods via <mark>proactive risk</mark> identification, observation, and mitigation processes.
 
                 Championed quality as a design principle, building procedures for proactive <mark>verification and validation</mark>, continuous delivery, and incident/root-cause analysis.
@@ -84,7 +86,7 @@ content:
 
                 - Designed and delivered Technology onboarding procedures and training.
 
-                - Collaborated weekly with the internal Architecture guild on Tempus platform direction, patterns, and practices.
+                - Collaborated weekly with the internal Architecture guild on Tempus platform direction, patterns, and practices. Key stakeholder in investing in testable systems for function and data.
 
                 - Grew Engineering Operations release & testing expertise from O to 15 people.
 
