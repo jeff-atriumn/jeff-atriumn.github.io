@@ -90,6 +90,9 @@ content:
 
                 - Grew Engineering Operations release & testing expertise from O to 15 people.
 
+                Technology Focus: <mark>React</mark>, <mark>Node</mark>, <mark>SauceLabs</mark>, <mark>AWS</mark>, <mark>GCP</mark>, <mark>Jira</mark>, <mark>Data Mesh</mark>, <mark>Concourse</mark>.
+
+
           - layout: left
             title: Centro
             link: https://www.centro.net
@@ -115,6 +118,9 @@ content:
 
                 - Shaped recruiting, onboarding, and staffing for Quality Assurance/Test Engineering positions.
 
+                Technology Focus: <mark>React</mark>, <mark>Jira</mark>, <mark>New Relic</mark>, <mark>Grafana</mark>, <mark>SOA</mark>.
+
+
           - layout: left
             title: Angie's List / Angi
             link: https://www.angi.com/
@@ -139,6 +145,9 @@ content:
                 - Assisted architecture group with the strategy to redesign a highly monolithic, 10 year old codebase.
 
                 - Owned recruiting, onboarding, and staffing for Test Engineering and Scrum Master positions.
+
+                Technology Focus: <mark>Scala</mark>, <mark>Jira</mark>, <mark>Selenium/Webdriver</mark>.
+
 
           - layout: left
             title: Groupon
@@ -166,6 +175,8 @@ content:
                 - Facilitated processes and tools to enable internal “dogfooding” of software releases to all Groupon employees.
 
                 - Designed an apprenticeship program for junior/mid-level developers to learn testing practices on the job, before graduating to full-time Engineering or Quality positions.
+
+                Technology Focus: <mark>Ruby on Rails</mark>, <mark>Jenkins</mark>, <mark>AWS</mark>, <mark>Jira</mark>, <mark>Selenium/Capybara</mark>, <mark>SOA</mark>.
 
           - layout: left
             title: ThoughtWorks
