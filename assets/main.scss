@@ -3,3 +3,26 @@
 ---
 
 @import 'modern-resume-theme';
+
+.dark {
+    mark {
+      color: #222;
+      background-color: #75c6d9;
+    }
+
+    techmark {
+        color: #fafa7f;
+    }
+
+    titlemark {
+        color: #fcb035;
+    }
+
+    unimark {
+        color: #fc3f35
+    }
+
+    a {
+      color: #477dca;
+    }
+  }

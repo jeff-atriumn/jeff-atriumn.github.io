@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jeff Rogers
-title: Experienced Technology Delivery Leader - Chicago, IL
+title: Technology Delivery Leader - Chicago, IL
 email: jeff@atriumn.com
 phone: 312.282.9879
 
@@ -59,7 +59,7 @@ content:
       layout: list
       content:
           - layout: left
-            title: Tempus Labs
+            title: <titlemark>Tempus Labs</titlemark>
             link: https://tempus.com
             sub_title: Head of Engineering Quality / Engineering Practices Lead
             caption: September 2017 - July 2021
@@ -90,11 +90,11 @@ content:
 
                 - Grew Engineering Operations release & testing expertise from O to 15 people.
 
-                Technology Focus: <mark>React</mark>, <mark>Node</mark>, <mark>SauceLabs</mark>, <mark>AWS</mark>, <mark>GCP</mark>, <mark>Jira</mark>, <mark>Data Mesh</mark>, <mark>Concourse</mark>.
+                Technology Focus: <techmark>React</techmark>, <techmark>Node</techmark>, <techmark>SauceLabs</techmark>, <techmark>AWS</techmark>, <techmark>GCP</techmark>, <techmark>Jira</techmark>, <techmark>Data Mesh</techmark>, <techmark>Concourse</techmark>.
 
 
           - layout: left
-            title: Centro
+            title: <titlemark>Centro</titlemark>
             link: https://www.centro.net
             sub_title: Senior Director of Quality Engineering
             caption: September 2014 - September 2017
@@ -118,11 +118,11 @@ content:
 
                 - Shaped recruiting, onboarding, and staffing for Quality Assurance/Test Engineering positions.
 
-                Technology Focus: <mark>React</mark>, <mark>Jira</mark>, <mark>New Relic</mark>, <mark>Grafana</mark>, <mark>SOA</mark>.
+                Technology Focus: <techmark>React</techmark>, <techmark>Jira</techmark>, <techmark>New Relic</techmark>, <techmark>Grafana</techmark>, <techmark>SOA</techmark>.
 
 
           - layout: left
-            title: Angie's List / Angi
+            title: <titlemark>Angie's List / Angi</titlemark>
             link: https://www.angi.com/
             sub_title: Director of Engineering Quality
             caption: January 2013 - September 2014
@@ -146,11 +146,11 @@ content:
 
                 - Owned recruiting, onboarding, and staffing for Test Engineering and Scrum Master positions.
 
-                Technology Focus: <mark>Scala</mark>, <mark>Jira</mark>, <mark>Selenium/Webdriver</mark>.
+                Technology Focus: <techmark>Scala</techmark>, <techmark>Jira</techmark>, <techmark>Selenium/Webdriver</techmark>.
 
 
           - layout: left
-            title: Groupon
+            title: <titlemark>Groupon</titlemark>
             link: https://www.groupon.com
             sub_title: Senior Engineering Manager
             caption: October 2010 - January 2013
@@ -176,10 +176,10 @@ content:
 
                 - Designed an apprenticeship program for junior/mid-level developers to learn testing practices on the job, before graduating to full-time Engineering or Quality positions.
 
-                Technology Focus: <mark>Ruby on Rails</mark>, <mark>Jenkins</mark>, <mark>AWS</mark>, <mark>Jira</mark>, <mark>Selenium/Capybara</mark>, <mark>SOA</mark>.
+                Technology Focus: <techmark>Ruby on Rails</techmark>, <techmark>Jenkins</techmark>, <techmark>AWS</techmark>, <techmark>Jira</techmark>, <techmark>Selenium/Capybara</techmark>, <techmark>SOA</techmark>.
 
           - layout: left
-            title: ThoughtWorks
+            title: <titlemark>ThoughtWorks</titlemark>
             link: https://www.thoughtworks.com
             sub_title: Lead Consultant
             caption: July 2000 - October 2010
@@ -203,7 +203,7 @@ content:
       layout: list # Type of content section (list/text)
       content:
           - layout: left
-            title: Miami University, Oxford OH
+            title: <unimark>Miami University, Oxford OH</unimark>
             link: https://miamioh.edu/
             caption: Management Information Systems and Analytics
             sub_title: Bachelors of Science in Business
