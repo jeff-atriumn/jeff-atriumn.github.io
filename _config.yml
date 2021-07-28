@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jeff Rogers
-title: Technology Delivery Leader - Chicago, IL
+title: Agile Delivery Leader - Chicago, IL
 email: jeff@atriumn.com
 phone: 312.282.9879
 
@@ -41,6 +41,8 @@ about_content: | # this will include new lines to allow paragraphs
     Focus on aligning <mark>key performance indicators</mark> as a tool for continuous improvement in technology strategy and product roadmaps.
 
     Broad practical delivery experience across business verticals: healthcare, regulatory, e-commerce, insurance, and more.
+
+    Extensive experience with implementation and principles of scaled agile frameworks.
 
     - risk management
 
@@ -79,6 +81,8 @@ content:
                 Facilitated the adoption of delivery and quality KPIs via <mark>internal workflow, dependency, and release management tooling</mark>.
 
                 Rebooted internal procedures on incident response, root-cause analysis, continuous improvement, while sharing learnings & failures with the organization.
+
+                Drove Center of Excellence initiatives via internal tooling, automation, and process auditing.
 
                 - Accountable to internal product release and dependency management tooling for 500+ systems and services.
 
